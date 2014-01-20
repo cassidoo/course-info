@@ -288,7 +288,7 @@ Here are a few guideline steps for a process of submitting your solutions:
    Just navigate to your repository and check that your latest commits are on
    GitHub.
 
-6. The go and eat some cinnamon rolls; you've finished the homework
+6. Then go and eat some cinnamon rolls; you've finished the homework
    assignment.
 
 ## Word of Caution
